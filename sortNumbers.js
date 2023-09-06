@@ -1,4 +1,4 @@
-/* 7 ky - Sort Numbers */
+/* 7 kyu - Sort Numbers */
 function solution(nums){
     // Return empty array if 'nums' is empty or null
     // Otherwise return 'nums' in ascending order
