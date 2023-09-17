@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greet", "Greet\Greet.csproj", "{B69CB4DD-10FE-4900-A4E3-63EEBFA6BE19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiply", "Multiply\Multiply.csproj", "{F93F5C37-5C62-4AD4-896D-41EAE312B29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69CB4DD-10FE-4900-A4E3-63EEBFA6BE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69CB4DD-10FE-4900-A4E3-63EEBFA6BE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69CB4DD-10FE-4900-A4E3-63EEBFA6BE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69CB4DD-10FE-4900-A4E3-63EEBFA6BE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93F5C37-5C62-4AD4-896D-41EAE312B29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93F5C37-5C62-4AD4-896D-41EAE312B29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93F5C37-5C62-4AD4-896D-41EAE312B29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93F5C37-5C62-4AD4-896D-41EAE312B29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB541A69-BD36-48E8-9E7E-4F7AFB1036B3}
+	EndGlobalSection
+EndGlobal
