@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\bin\Debug\net7.0\Greet.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\bin\Debug\net7.0\Greet.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\bin\Debug\net7.0\Greet.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\bin\Debug\net7.0\Greet.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\bin\Debug\net7.0\Greet.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\Greet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\Greet.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\Greet.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\Greet.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\Greet.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\refint\Greet.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\Greet.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\Greet.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Greet\obj\Debug\net7.0\ref\Greet.dll

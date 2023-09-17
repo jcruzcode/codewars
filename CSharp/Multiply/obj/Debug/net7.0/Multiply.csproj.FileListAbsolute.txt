@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\Multiply.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\Multiply.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\bin\Debug\net7.0\Multiply.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\bin\Debug\net7.0\Multiply.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\bin\Debug\net7.0\Multiply.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\bin\Debug\net7.0\Multiply.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\bin\Debug\net7.0\Multiply.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\Multiply.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\refint\Multiply.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\Multiply.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\Multiply.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Multiply\obj\Debug\net7.0\ref\Multiply.dll
