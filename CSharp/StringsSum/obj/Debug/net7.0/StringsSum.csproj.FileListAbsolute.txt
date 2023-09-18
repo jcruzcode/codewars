@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\bin\Debug\net7.0\StringsSum.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\bin\Debug\net7.0\StringsSum.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\bin\Debug\net7.0\StringsSum.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\bin\Debug\net7.0\StringsSum.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\bin\Debug\net7.0\StringsSum.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\StringsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\StringsSum.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\StringsSum.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\StringsSum.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\StringsSum.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\refint\StringsSum.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\StringsSum.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\StringsSum.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\StringsSum\obj\Debug\net7.0\ref\StringsSum.dll
