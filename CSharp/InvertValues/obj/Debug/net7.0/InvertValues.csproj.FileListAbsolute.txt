@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\InvertValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\InvertValues.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\InvertValues.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\InvertValues.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\bin\Debug\net7.0\InvertValues.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\bin\Debug\net7.0\InvertValues.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\bin\Debug\net7.0\InvertValues.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\bin\Debug\net7.0\InvertValues.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\bin\Debug\net7.0\InvertValues.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\InvertValues.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\refint\InvertValues.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\InvertValues.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\InvertValues.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\InvertValues\obj\Debug\net7.0\ref\InvertValues.dll
