@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\Grow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\Grow.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\Grow.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\Grow.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\bin\Debug\net7.0\Grow.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\bin\Debug\net7.0\Grow.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\bin\Debug\net7.0\Grow.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\bin\Debug\net7.0\Grow.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\bin\Debug\net7.0\Grow.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\Grow.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\refint\Grow.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\Grow.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\Grow.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Grow\obj\Debug\net7.0\ref\Grow.dll
