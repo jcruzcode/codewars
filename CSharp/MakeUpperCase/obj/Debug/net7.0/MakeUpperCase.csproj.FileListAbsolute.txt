@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\MakeUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\MakeUpperCase.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\MakeUpperCase.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\MakeUpperCase.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\bin\Debug\net7.0\MakeUpperCase.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\bin\Debug\net7.0\MakeUpperCase.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\bin\Debug\net7.0\MakeUpperCase.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\bin\Debug\net7.0\MakeUpperCase.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\bin\Debug\net7.0\MakeUpperCase.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\MakeUpperCase.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\refint\MakeUpperCase.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\MakeUpperCase.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\MakeUpperCase.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\MakeUpperCase\obj\Debug\net7.0\ref\MakeUpperCase.dll
