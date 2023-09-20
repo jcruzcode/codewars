@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\bin\Debug\net7.0\VolumeOfCuboid.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\bin\Debug\net7.0\VolumeOfCuboid.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\bin\Debug\net7.0\VolumeOfCuboid.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\bin\Debug\net7.0\VolumeOfCuboid.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\bin\Debug\net7.0\VolumeOfCuboid.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\VolumeOfCuboid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\VolumeOfCuboid.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\VolumeOfCuboid.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\VolumeOfCuboid.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\VolumeOfCuboid.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\refint\VolumeOfCuboid.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\VolumeOfCuboid.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\VolumeOfCuboid.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\VolumeOfCuboid\obj\Debug\net7.0\ref\VolumeOfCuboid.dll
