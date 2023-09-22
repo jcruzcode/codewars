@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\bin\Debug\net7.0\FakeBinary.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\bin\Debug\net7.0\FakeBinary.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\bin\Debug\net7.0\FakeBinary.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\bin\Debug\net7.0\FakeBinary.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\bin\Debug\net7.0\FakeBinary.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\FakeBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\FakeBinary.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\FakeBinary.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\FakeBinary.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\FakeBinary.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\refint\FakeBinary.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\FakeBinary.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\FakeBinary.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\FakeBinary\obj\Debug\net7.0\ref\FakeBinary.dll
