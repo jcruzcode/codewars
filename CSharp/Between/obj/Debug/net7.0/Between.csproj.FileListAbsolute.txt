@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\Between.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\Between.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\Between.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\Between.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\bin\Debug\net7.0\Between.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\bin\Debug\net7.0\Between.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\bin\Debug\net7.0\Between.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\bin\Debug\net7.0\Between.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\bin\Debug\net7.0\Between.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\Between.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\refint\Between.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\Between.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\Between.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\Between\obj\Debug\net7.0\ref\Between.dll
