@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\bin\Debug\net7.0\HoopCount.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\bin\Debug\net7.0\HoopCount.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\bin\Debug\net7.0\HoopCount.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\bin\Debug\net7.0\HoopCount.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\bin\Debug\net7.0\HoopCount.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\HoopCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\HoopCount.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\HoopCount.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\HoopCount.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\HoopCount.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\refint\HoopCount.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\HoopCount.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\HoopCount.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\HoopCount\obj\Debug\net7.0\ref\HoopCount.dll
