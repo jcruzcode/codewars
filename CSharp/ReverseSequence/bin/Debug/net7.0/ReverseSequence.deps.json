@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ReverseSequence/1.0.0": {
+        "runtime": {
+          "ReverseSequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReverseSequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

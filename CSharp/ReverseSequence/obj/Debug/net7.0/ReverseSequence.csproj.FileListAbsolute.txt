@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ReverseSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ReverseSequence.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ReverseSequence.AssemblyInfo.cs
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ReverseSequence.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\bin\Debug\net7.0\ReverseSequence.exe
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\bin\Debug\net7.0\ReverseSequence.deps.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\bin\Debug\net7.0\ReverseSequence.runtimeconfig.json
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\bin\Debug\net7.0\ReverseSequence.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\bin\Debug\net7.0\ReverseSequence.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ReverseSequence.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\refint\ReverseSequence.dll
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ReverseSequence.pdb
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ReverseSequence.genruntimeconfig.cache
+C:\Users\mynam\Desktop\100devs\codewars\CSharp\ReverseSequence\obj\Debug\net7.0\ref\ReverseSequence.dll
