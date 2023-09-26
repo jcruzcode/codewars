@@ -1,4 +1,5 @@
 ﻿// 8 kyu - If you can't sleep, just count sheep!!
+
 using System;
 
 Console.WriteLine(Kata.CountSheep(4));
