@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Multiply\\Multiply.csproj",
+      "projectUniqueName": "c:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Multiply\\Multiply.csproj",
       "projectName": "Multiply",
-      "projectPath": "C:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Multiply\\Multiply.csproj",
+      "projectPath": "c:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Multiply\\Multiply.csproj",
       "packagesPath": "C:\\Users\\mynam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Multiply\\obj\\",
+      "outputPath": "c:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Multiply\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mynam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mynam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
