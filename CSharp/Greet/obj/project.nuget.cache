@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1H09lUSLdZrZ71ofrQRcS+BNtpXYimZsWaVHhSQrviUiMv5yKV7+G+vBdQ6E1Rhn5O9L46n3l5LyfRWf/AzFHw==",
+  "dgSpecHash": "VAJ9qSNvBPjcWaimizCmO0HwSE/KDSfvo2l9lxcyuGI4z+Z63vfElwe06/9qXDVqBv2WxGHEg+acSLOi9hjycA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Greet\\Greet.csproj",
+  "projectFilePath": "C:\\Users\\mynam\\Desktop\\100devs\\codewars\\CSharp\\Greet\\Greet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
