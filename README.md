@@ -1,3 +1,3 @@
 # Solutions to Codewars Katas written in
-# - C#
-# - JavaScript
+1) C#
+2) JavaScript
