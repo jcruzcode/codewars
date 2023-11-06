@@ -1,3 +1,4 @@
+// 6 kyu - Array Helpers
 Array.prototype.square = function () {
     let arr = []
     for (let i = 0; i < this.length; i++) {
@@ -61,7 +62,5 @@ console.log(numbers.average());
 console.log(numbers.sum());
 console.log(numbers.even());
 console.log(numbers.odd());
-
-
 
 
