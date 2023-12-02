@@ -1,4 +1,5 @@
 // Counting Sheep... (8 kyu)
+
 function countSheeps(sheep) {
     let count = 0;
 
