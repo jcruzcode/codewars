@@ -1,4 +1,5 @@
 // Count Repeats (6 kyu)
+
 function countRepeats(str) {
   const counts = {};
   const seen = [];
