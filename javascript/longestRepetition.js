@@ -1,3 +1,4 @@
+// Character with longest consecutive repetition (6 kyu)
 function longestRepetition(s) {
   // Case: s is an empty string ""
   if (s === "") return ["", 0];
