@@ -1,4 +1,6 @@
 /*
+    Longest palindrome (6 kyu)
+    
     A palindrome is a series of characters that read the same forwards as 
     backwards such as "hannah", "racecar" and "lol".
 
