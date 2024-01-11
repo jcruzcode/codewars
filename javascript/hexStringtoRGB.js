@@ -25,7 +25,7 @@ hexadecimal notation (ie "#FFF")
 */
 
 function hexStringToRGB(hexString) {
-  // Remove ocothorpe and make a copy of remainging characters
+  // Remove ocothorpe (#) and make a copy of remaining characters
   const hexStr = hexString.slice(1,);
   // Split string into characters
   const chars = hexStr.split('');
