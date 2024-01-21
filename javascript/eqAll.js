@@ -1,9 +1,7 @@
 /*
 ====== Are all elements equal? (Infinity version) (6 kyu) ======
 Create a function eqAll that determines if all elements of a list 
-are equal.
-
-list can be any iterable, and may be infinite. 
+are equal; list can be any iterable, and may be infinite. 
 
 Return value is a Boolean.
 
