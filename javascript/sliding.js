@@ -51,7 +51,7 @@ function sliding(nums, k) {
   if (k > nums.length) return [];
 
   // The window will be implemented by the array method slice.
-  // The first slice will have start = 0 and end = k.
+  // The first slice will have start = 0 and end = k, a window of width k.
   let start = 0, end = k;
   const maxNums = [];
 
