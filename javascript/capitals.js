@@ -14,6 +14,7 @@ Example (Input --> Output)
 4) Pseudocode - see comments
 
 */
+
 const capitals = (word) => {
     // Loop over each letter in the word and check if it's uppercase and add to 
     // an array of indices if so.
