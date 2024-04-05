@@ -1,5 +1,6 @@
 /*
 ======= Change two-dimensional array (7 kyu) =======
+
 Function receive a two-dimensional square array of random integers. 
 On the main diagonal, all the negative integers must be changed to 0, while the 
 others must be changed to 1 (Note: 0 is considered non-negative, here).
