@@ -42,4 +42,5 @@ function isPythagoreanTriple(i) {
 }
 
 // Tests
-
+console.log(isPythagoreanTriple([3, 4, 5]), true);
+console.log(isPythagoreanTriple([3, 5, 9]), false);
